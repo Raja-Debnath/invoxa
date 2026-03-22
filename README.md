@@ -20,7 +20,7 @@ This is not a tutorial project. It is a real product built to production standar
 
 ## Why I am building this in public
 
-I am a self-taught backend developer from Mumbai, India. I built and currently maintain [DebnathOps](/) — a private internal tool running for two family businesses. This project is my public proof of work.
+I am a self-taught backend developer from Mumbai, India. I built and currently maintain DebnathOps — a private internal tool running for two family businesses. This project is my public proof of work.
 
 My goal is to demonstrate that I can build production-grade backend systems from scratch — not just follow tutorials. Every commit, every PR, every design decision is documented here.
 
@@ -226,7 +226,7 @@ test: add integration tests for auth endpoints
 I document every phase of this build publicly. If you are a self-taught developer learning backend engineering this repository shows the real process — including mistakes, debugging sessions, and design decisions.
 
 - **GitHub** — [Raja-Debnath](https://github.com/Raja-Debnath)
-- **LinkedIn** — [Raja Debnath](https://linkedin.com/in/Raja-Debnath)
+- **LinkedIn** — [Raja Debnath](https://www.linkedin.com/in/raja-debnath-78b8a6242/)
 
 ---
 
