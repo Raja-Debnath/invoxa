@@ -83,7 +83,7 @@ My goal is to demonstrate that I can build production-grade backend systems from
 | POST | /api/auth/register | Register new user | None |
 | POST | /api/auth/login | Login user | None |
 
-### Coming Soon
+### Coming Soon - I'll later add Postman.json 
 
 | Method | Endpoint | Description |
 |---|---|---|
