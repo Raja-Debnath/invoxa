@@ -2,7 +2,7 @@ import express from 'express'
 
 // import routes 
 import health from './routes/index.js'
-import authRouter from './routes/route.auth.js'
+import authRouter from './routes/auth.routes.js'
 
 
 const app = express()
